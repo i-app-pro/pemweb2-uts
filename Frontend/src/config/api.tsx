@@ -1,3 +1,3 @@
-const API_URL = "https://uts-pemweb2-fullstuck-dev-production.up.railway.app";
+const API_URL = "";
 
 export default API_URL;
